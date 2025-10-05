@@ -2,7 +2,7 @@
 
 This project demonstrates how to host a static website using **Amazon S3 bucket**. The website serves as a professional portfolio for a **Cloud Engineering Specialist**.
 
-![](/img/Screenshot%20(229).png)
+![](/img/Screenshot%20(227).png)
 ---
 
 ## 📘 Project Overview
